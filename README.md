@@ -1,2 +1,2 @@
-# compass-modernizer
+# compass-Plus
 Compass Modernizer extension privacy policy
